@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{c35897fc-4c80-4534-8acc-1348005c8587}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\LibraryScreen">
+      <UniqueIdentifier>{955c5ace-0766-4d1c-aa20-5809df6311f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\LibraryScreen\BookScreen">
+      <UniqueIdentifier>{8f3c4806-fa32-40e5-a72c-ed93e8baf43f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Libraries">
+      <UniqueIdentifier>{361fd36f-4fd2-478c-8bf8-7f0e441b8251}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objects">
+      <UniqueIdentifier>{1a2e23b5-e882-4c8a-bef6-4613ed6a359c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\LibraryScreen\MemberManagement">
+      <UniqueIdentifier>{ec85b0ac-cd92-4700-8649-af403faebaf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\LibraryScreen\BorrowReturn">
+      <UniqueIdentifier>{f5cc6653-5702-46c6-91ea-485b9e225e3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\LibraryScreen\ReservationsScreen">
+      <UniqueIdentifier>{a3d4518d-bbb0-45b9-820d-3a1ea720c5d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Reports">
+      <UniqueIdentifier>{7972e09d-579e-4fa4-99ea-38a74b90b11a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Reports\MembersReports">
+      <UniqueIdentifier>{b43dc292-3cd5-4c64-a5c7-46c8d9599e67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Reports\BooksReports">
+      <UniqueIdentifier>{7a0e6da7-0a43-4a57-8d95-cb7a91e3e763}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Reports\BorrowReturnReports">
+      <UniqueIdentifier>{611d159e-62cf-4873-ac2d-33a20d222e4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Reports\ReservationsReports">
+      <UniqueIdentifier>{a2571ace-3fc7-475c-b4f9-62151db7934a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Library Management System Project.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="clsEditBookScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsBookManagementScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BookScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDate.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="clsInputValidate.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="clsString.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBook.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllBooksScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BookScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsSearchForABookScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BookScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsEditBookScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BookScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAddNewBookScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BookScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteBookScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BookScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsPerson.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMemberManagementScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\MemberManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMember.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowMembersAllScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\MemberManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="clsRegisterMemberScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\MemberManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="clsSearchMemberScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\MemberManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="clsEditMemberScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\MemberManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDeleteMemberScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\MemberManagement</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBorrowReturnBooksScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BorrowReturn</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBorrowBookScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BorrowReturn</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBorrowReturn.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsReturnBookScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BorrowReturn</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBorrowedBookByMemberScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BorrowReturn</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowAllBorrowedBooksScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\BorrowReturn</Filter>
+    </ClInclude>
+    <ClInclude Include="clsReservationsScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\ReservationsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsReservations.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMakeAReservationScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\ReservationsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsScreen.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCompleteReservationScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\ReservationsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCancelReservationScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\ReservationsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsViewMyReservationsScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\ReservationsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsSearchReservationByBookScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\ReservationsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsSearchReservationByMemberScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\ReservationsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsShowReservationQueueScreen.h">
+      <Filter>Header Files\Screens\LibraryScreen\ReservationsScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="clsReportsScreen.h">
+      <Filter>Header Files\Screens\Reports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsLibraryMainScreen.h">
+      <Filter>Header Files\Screens</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBooksReportsScreen.h">
+      <Filter>Header Files\Screens\Reports\BooksReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMembersReportsScreen.h">
+      <Filter>Header Files\Screens\Reports\MembersReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBorrowReturnReportsScreen.h">
+      <Filter>Header Files\Screens\Reports\BorrowReturnReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsReservationsReportsScreen.h">
+      <Filter>Header Files\Screens\Reports\ReservationsReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTotalNumberOfBooksScreen.h">
+      <Filter>Header Files\Screens\Reports\BooksReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAvailableBooksScreen.h">
+      <Filter>Header Files\Screens\Reports\BooksReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBorrowedBooksScreen.h">
+      <Filter>Header Files\Screens\Reports\BooksReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsOverdueBooksScreen.h">
+      <Filter>Header Files\Screens\Reports\BooksReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTotalNumberOfMembersScreen.h">
+      <Filter>Header Files\Screens\Reports\MembersReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMembersWithOverdueBooksScreen.h">
+      <Filter>Header Files\Screens\Reports\MembersReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTopActiveMembersScreen.h">
+      <Filter>Header Files\Screens\Reports\MembersReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMembersWithBorrowedBooksScreen.h">
+      <Filter>Header Files\Screens\Reports\MembersReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAllBorrowTransactionsScreen.h">
+      <Filter>Header Files\Screens\Reports\BorrowReturnReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsUtil.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="clsAllReturnTransactionsScreen.h">
+      <Filter>Header Files\Screens\Reports\BorrowReturnReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMostBorrowedBooksScreen.h">
+      <Filter>Header Files\Screens\Reports\BorrowReturnReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsTotalReservationsScreen.h">
+      <Filter>Header Files\Screens\Reports\ReservationsReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsActiveReservationsScreen.h">
+      <Filter>Header Files\Screens\Reports\ReservationsReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsWaitingReservationsScreen.h">
+      <Filter>Header Files\Screens\Reports\ReservationsReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCancelledReservationsScreen.h">
+      <Filter>Header Files\Screens\Reports\ReservationsReports</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCompletedReservationsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

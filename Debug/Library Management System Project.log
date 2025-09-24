@@ -1,0 +1,41 @@
+﻿  Library Management System Project.cpp
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(59,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(88,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(108,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(127,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(145,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(168,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(183,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(201,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(220,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(255,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(305,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsString.h(447,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsSearchForABookScreen.h(26,12): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsSearchMemberScreen.h(26,12): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsUtil.h(189,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsUtil.h(200,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsUtil.h(248,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsBorrowReturn.h(529,2): warning C4240: nonstandard extension used: access to 'clsBorrowReturn::stMostBorrowedBook' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsBorrowReturn.h(26): message : see declaration of 'clsBorrowReturn::stMostBorrowedBook'
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsBorrowReturn.h(160,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsBorrowReturn.h(433,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsReservations.h(601,16): warning C4240: nonstandard extension used: access to 'clsReservations::enStatus' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsReservations.h(30): message : see declaration of 'clsReservations::enStatus'
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsReservations.h(155,12): warning C4101: 'Status': unreferenced local variable
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsMakeAReservationScreen.h(141,13): warning C4566: character represented by universal-character-name '\U0001F4E2' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsMakeAReservationScreen.h(147,13): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsCompleteReservationScreen.h(91,13): warning C4566: character represented by universal-character-name '\U0001F4DA' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsCancelReservationScreen.h(75,13): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsCancelReservationScreen.h(80,13): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsViewMyReservationsScreen.h(31,12): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsSearchReservationByBookScreen.h(38,12): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsSearchReservationByMemberScreen.h(40,12): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsShowReservationQueueScreen.h(47,12): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1256)
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsBook.h(417): warning C4715: 'clsBook::Save': not all control paths return a value
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsBorrowReturn.h(410): warning C4715: 'clsBorrowReturn::Save': not all control paths return a value
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsMember.h(323): warning C4715: 'clsMember::Save': not all control paths return a value
+C:\Users\rere\source\repos\Library Management System Project\Library Management System Project\clsReservations.h(897): warning C4715: 'clsReservations::SaveToFile': not all control paths return a value
+  Library Management System Project.vcxproj -> C:\Users\rere\source\repos\Library Management System Project\Debug\Library Management System Project.exe
