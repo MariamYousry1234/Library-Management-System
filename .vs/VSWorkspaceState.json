@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Libraries",
+    "\\Objects",
+    "\\Screens",
+    "\\Screens\\LibraryScreen",
+    "\\Screens\\LibraryScreen\\ReportsScreen",
+    "\\Screens\\LibraryScreen\\ReportsScreen\\BooksReportsScreen",
+    "\\Screens\\LibraryScreen\\ReportsScreen\\BorrowReturnReportsScreen",
+    "\\Screens\\LibraryScreen\\ReportsScreen\\MemberReportsScreen",
+    "\\Screens\\LibraryScreen\\ReportsScreen\\ReservationsReportsScreen"
+  ],
+  "SelectedNode": "\\Library Management System Project.cpp",
+  "PreviewInSolutionExplorer": false
+}
